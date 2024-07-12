@@ -218,6 +218,10 @@ login and enjoy using website.
 
 
 
+### refrences:
+
+https://documentation.ubuntu.com/lxd/en/latest/
+
 
 
 
