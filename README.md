@@ -1,6 +1,12 @@
 # LXD
 
 ## Intro
+
+LXD provides support for two different types of instances: system containers and virtual machines.
+
+docker is application container . LXD is system container.
+
+
 LXD scales from one instance on a single machine to a cluster in a full data center rack, making it suitable for running workloads both for development and in production.
 
 LXD allows you to easily set up a system that feels like a small private cloud. LXD and LXC are two distinct implementations of Linux containers.
